@@ -15,9 +15,9 @@
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Bold/Aino-Bold.woff2') format('woff2'),
-         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Bold/Aino-Bold.woff') format('woff'),
-         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Bold/Aino-Bold.otf') format('opentype');
+    src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff2') format('woff2'),
+         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff') format('woff'),
+         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.otf') format('opentype');
 }
 
 /* Italic */
@@ -51,11 +51,4 @@
     src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff2') format('woff2'),
          url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff') format('woff'),
          url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.otf') format('opentype');
-}
-
-/* Title Style */
-h1 {
-    font-family: 'Aino', sans-serif; /* Use the Aino font with a fallback */
-    font-weight: 400; /* Set to the appropriate weight for Headline */
-    font-style: normal; /* Change to italic if the Headline style is italic */
 }

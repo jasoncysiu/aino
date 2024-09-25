@@ -4,9 +4,7 @@
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Regular/Aino-Regular.woff2') format('woff2'),
-         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Regular/Aino-Regular.woff') format('woff'),
-         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Regular/Aino-Regular.otf') format('opentype');
+    src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff2') format('woff2');
 }
 
 /* Bold */
@@ -15,9 +13,7 @@
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff2') format('woff2'),
-         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff') format('woff'),
-         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.otf') format('opentype');
+    src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff2') format('woff2');
 }
 
 /* Italic */
@@ -26,9 +22,7 @@
     font-style: italic;
     font-weight: 400;
     font-display: swap;
-    src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Italic/Aino-Italic.woff2') format('woff2'),
-         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Italic/Aino-Italic.woff') format('woff'),
-         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Italic/Aino-Italic.otf') format('opentype');
+    src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff2') format('woff2');
 }
 
 /* Bold Italic */
@@ -37,9 +31,7 @@
     font-style: italic;
     font-weight: 700;
     font-display: swap;
-    src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/BoldItalic/Aino-BoldItalic.woff2') format('woff2'),
-         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/BoldItalic/Aino-BoldItalic.woff') format('woff'),
-         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/BoldItalic/Aino-BoldItalic.otf') format('opentype');
+    src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff2') format('woff2');
 }
 
 /* Headline */
@@ -48,7 +40,5 @@
     font-style: normal;
     font-weight: 800;
     font-display: swap;
-    src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff2') format('woff2'),
-         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff') format('woff'),
-         url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.otf') format('opentype');
+    src: url('https://github.com/jasoncysiu/aino/raw/refs/heads/main/Headline/Aino-Headline.woff2') format('woff2');
 }
